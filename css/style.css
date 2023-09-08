@@ -1,0 +1,65 @@
+@media (min-width: 992px) {
+    .col-lg-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 66.666667%;
+        flex: 0 0 66.666667%;
+        max-width: 100% !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-8 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .mod-treelogo {
+        height: auto;
+    }
+}
+
+@media (max-width: 390px) {
+    #logo123 {
+        display: none !important;
+    }
+}
+
+
+
+
+
+
+.copywrite-link {
+    color: grey;
+}
+
+@media (max-width: 767px) {
+    .leb-flag {
+        margin-left: 20px;
+    }
+}
+
+
+
+@media(max-width:1010px) {
+
+    .news-image {
+        min-width: 715px !important;
+
+    }
+}
+
+@media(max-width:725px) {
+
+    .news-image {
+        min-width: 500px !important;
+    }
+}
+
+@media(max-width:510px) {
+
+    .news-image {
+        min-width: 300px !important;
+    }
+}
